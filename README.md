@@ -4,7 +4,6 @@ ILRuntime Debugger in JetBrains Rider
 # 获取方式
 1. [Rider插件商店下载地址](https://plugins.jetbrains.com/plugin/19528-ilruntimedebugger)  
 2. Rider IDE->设置->插件->Marketplace 搜索 iLRuntime 会自动匹配你的rider版本
-3. [下载地址](https://github.com/yyh9488/ILRuntime-Rider-Degguer/releases)  
 # 插件版本说明
 例如 **v213.1.2**  
 | 版本 | 解析 |
@@ -17,7 +16,7 @@ ILRuntime Debugger in JetBrains Rider
 ![ILRuntime Rider Debugger讨论群群聊二维码](https://user-images.githubusercontent.com/36093955/173011400-705d13d5-79cc-4d63-bfcb-989e7bed5564.png)  
 ## 最近动态
 1.适配协程中变量评估的功能  
-2.兼容ILRuntime新的调试器版本4（不用分开下载两个版本） 
+## 全新的4.0版本可以调试所有的ILRuntime版本
 ## 提供了两种调试模式
 1 指定ip地址安装后默认创建  ![2022-06-10-15-01-14](https://user-images.githubusercontent.com/36093955/173010652-ed85893b-b476-4f7c-94ad-c1bc31b9b314.gif)
 
