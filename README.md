@@ -16,6 +16,8 @@ ILRuntime Debugger in JetBrains Rider
 ![ILRuntime Rider Debugger讨论群群聊二维码](https://user-images.githubusercontent.com/36093955/173011400-705d13d5-79cc-4d63-bfcb-989e7bed5564.png)  
 ## 最近动态
 1.适配协程中变量评估的功能  
+2.适配ILRuntime2.1.0的版本（已适配可以使用Attach to ILRuntime 4的调试配置）
+3.变量表达式输出功能
 ## 全新的4.0版本可以调试所有的ILRuntime版本
 ## 提供了两种调试模式
 1 指定ip地址安装后默认创建  ![2022-06-10-15-01-14](https://user-images.githubusercontent.com/36093955/173010652-ed85893b-b476-4f7c-94ad-c1bc31b9b314.gif)
