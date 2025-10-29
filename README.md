@@ -24,4 +24,7 @@ ILRuntime Debugger in JetBrains Rider
 1 指定ip地址安装后默认创建  ![2022-06-10-15-01-14](https://user-images.githubusercontent.com/36093955/173010652-ed85893b-b476-4f7c-94ad-c1bc31b9b314.gif)
 
 2 试用于多个实例  ![2022-06-10-15-01-35](https://user-images.githubusercontent.com/36093955/173010716-31f59e5e-25ab-4f1e-99bb-65df478639dd.gif)
-插件使用人多的时候再公开代码
+
+插件不会在更新了，由于之前做插件时候选择技术方法问题，选择了C#做核心代码，但是没想到Rider官方的c#代码经常更新导致一个小版本就得适配，已经没有那么多精力在适配下去。
+结合ILRuntime热跟使用人未来也会越来越少。
+这个项目也算是停摆了，也是时候和大家说再见了。
